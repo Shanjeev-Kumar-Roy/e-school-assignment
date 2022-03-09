@@ -57,7 +57,7 @@
 }
 
 .box {
-    box-shadow: 5px 5px 10px;
+    box-shadow: 5px 5px 10px gray;
     padding-top: 10px;
     height: 250px;
     border-radius: 10px;
